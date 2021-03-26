@@ -264,13 +264,13 @@ section .title::after{
 /* services section styling */
 .services{
     color:#fff;
-    background: url(images/banner2.png);
+    background: url(https://cdn.discordapp.com/attachments/791641571610066965/825026435818586172/main.png);
     background-attachment: fixed;
 }
 .teams
 {
     color:#fff;
-    background: url(images/founderbanner.png);
+    background: url(https://cdn.discordapp.com/attachments/791641571610066965/825026321167548466/founderbanner.png);
     background-attachment: fixed;
 }
 .services .title::before,
